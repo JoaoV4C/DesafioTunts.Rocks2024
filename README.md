@@ -19,3 +19,10 @@ m>=7  - Aprovado
 
 ## REFERÊNCIA 
 Documentação da Google Sheets: https://developers.google.com/sheets/api/guides/concepts
+
+## How to Run it?
+```
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+python main.py
+```
+##
