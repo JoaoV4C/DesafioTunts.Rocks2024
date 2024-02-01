@@ -1,3 +1,4 @@
+# This code need the "credentials.json" file of your OAuth client from Google Cloud to work well!!
 import os.path
 from math import ceil
 from google.auth.transport.requests import Request
