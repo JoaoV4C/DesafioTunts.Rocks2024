@@ -21,7 +21,7 @@ m>=7  - Aprovado
 Documentação da Google Sheets: https://developers.google.com/sheets/api/guides/concepts
 
 ## How to Run it?
-É necessário adicionar o arquivo "credentials.json" do client OAuth criado na Google Clound
+É necessário adicionar o arquivo "credentials.json" do cliente OAuth criado na Google Clound
 ```
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 python main.py
