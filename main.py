@@ -79,6 +79,7 @@ def main():
 
       # If student's situation is "Exame Final" calculates their "Nota para  Aprovação Final, if doesn't sets 0 on it"
       if(student_data[6] == "Exame Final"):
+        # Simplification of 5<=(m+naf)/2
         naf = ceil(10 - m)
         # If "naf" is already set, changes to new one, if doesn't, sets it
         if len(student_data) == 8:
