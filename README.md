@@ -19,7 +19,7 @@ m>=7  - Aprovado
 
 ## REFERÊNCIA 
 Documentação da Google Sheets: https://developers.google.com/sheets/api/guides/concepts \
-Planilha utilizada: https://docs.google.com/spreadsheets/d/1XvWJcRLj2WAeXO3ULQ_GxGm9---3SZkjMbGcXMJtt70/edit#gid=0
+Planilha Base: https://docs.google.com/spreadsheets/d/1XvWJcRLj2WAeXO3ULQ_GxGm9---3SZkjMbGcXMJtt70/edit#gid=0
 
 ## How to Run it?
 É necessário adicionar o arquivo "credentials.json" do cliente OAuth criado na Google Cloud
